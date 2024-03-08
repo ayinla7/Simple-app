@@ -29,3 +29,7 @@ conda create --name simpleappenv python=3.10 -y
 ```
 pip install streamlit jupyter notebook=6.5.6 pandas numpy
 ```
+
+5. How the Profile page looks 
+![alt text](./sc.png)
+
